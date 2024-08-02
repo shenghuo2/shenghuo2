@@ -10,6 +10,10 @@ on:
 jobs:
   metrics-left:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
       - name: left
         uses: shenghuo2/metrics@master
@@ -48,6 +52,10 @@ jobs:
 
   metrics-right:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
       - name: right
         uses: shenghuo2/metrics@master
