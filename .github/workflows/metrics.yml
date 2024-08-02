@@ -34,13 +34,12 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_ignored: php
+          plugin_languages_ignored: php, javascript
           plugin_languages_details: bytes-size, percentage
           commits_authoring: 1308357113@qq.com, study@shenghuo2.cn, shenghuo2
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 8
-          plugin_starlists_languages_ignored: php, javascript
           plugin_starlists_limit_repositories: 0
           plugin_rss: yes
           plugin_rss_source: https://blog.shenghuo2.top/index.xml
@@ -72,14 +71,14 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_limit: 8
-          plugin_achievements_threshold: C
-          plugin_achievements_ignored: member, worker, explorer, automator, infographile
+          plugin_achievements_threshold: B
+          plugin_achievements_ignored: member, worker, automator, infographile
           plugin_code: yes
           plugin_code_languages: go, python, dockerfile 
           plugin_code_days: 14
           plugin_code_load: 400
           plugin_activity: yes 
-          plugin_activity_limit: 5
+          plugin_activity_limit: 3
           plugin_activity_days: 7
           plugin_activity_filter: issue, pr, release, push, review 
           plugin_activity_skipped: shenghuo2
@@ -92,20 +91,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: snake
-        uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-      
-          # list of files to generate.
-          # one file per line. Each output can be customized with options as query string.
-          #
-          #  supported options:
-          #  - palette:     A preset of color, one of [github, github-dark, github-light]
-          #  - color_snake: Color of the snake
-          #  - color_dots:  Coma separated list of dots color.
-          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-          #                 Exactly 5 colors are expected.
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          gif_out_path: github-contribution-grid-snake.gif
+          svg_out_path: github-contribution-grid-snake.svg
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
