@@ -50,7 +50,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: right
-        uses: lowlighter/metrics@latest
+        uses: shenghuo2/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
