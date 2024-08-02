@@ -84,26 +84,28 @@ jobs:
           plugin_activity_skipped: shenghuo2
           config_order: topics, code, achievements, activity
 
-  snake:
-    runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
-
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+      - name: snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: github-contribution-grid-snake.gif
-          svg_out_path: github-contribution-grid-snake.svg
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+          outputs: |
+            github-snake.svg?palette=github-light
+            github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            
+      - name: deploy snake to gist
+        uses: exuanbo/actions-deploy-gist@v1.1.4
         with:
-          branch: main
-          message: 'Generate Contribution Snake'
+          token: ${{ secrets.METRICS_TOKEN }}
+          gist_id: bfce20b14ab0484cef03bae6e60e0b3a
+          gist_file_name: github-snake.svg
+          file_path: github-snake.svg
+
+      - name: deploy dark snake to gist
+        uses: exuanbo/actions-deploy-gist@v1.1.4
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          gist_id: bfce20b14ab0484cef03bae6e60e0b3a
+          gist_file_name: github-snake-dark.svg
+          file_path: github-snake-dark.svg
