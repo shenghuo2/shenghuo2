@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="880" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="647" class="">
     <defs>
         <style/>
     </defs>
@@ -300,7 +300,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0c2aa7e</div>
+                                        <div class="sha">#e854add</div>
                                         <div class="message">Update build.yml</div>
                                     </div>
                                 </div>
@@ -320,8 +320,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7646363</div>
-                                        <div class="message">Create build.yml</div>
+                                        <div class="sha">#71cb38f</div>
+                                        <div class="message">Update build.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -333,81 +333,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 15 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">shenghuo2/sleep-status</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9da602a</div>
-                                        <div class="message">Merge pull request #2 from shenghuo2/develop
-
-Develop v0.0.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00309b6</div>
-                                        <div class="message">docs: Add README-en.md and update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f202e1d</div>
-                                        <div class="message">feat: Docker Support(test)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ab6923</div>
-                                        <div class="message">Update docker-image.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf296c9</div>
-                                        <div class="message">Update docker-image.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e17e94b</div>
-                                        <div class="message">Update docker-image.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efa0ab7</div>
-                                        <div class="message">Update docker-image.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e740c0a</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/develop' into develop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed38b7e</div>
-                                        <div class="message">feat: Docker Support(test)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5a3ec7</div>
-                                        <div class="message">Update docker-image.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e8c192</div>
-                                        <div class="message">Update docker-image.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c3b173</div>
-                                        <div class="message">Create docker-image.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8118d4</div>
-                                        <div class="message">feat: Docker Support(test)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c33658d</div>
-                                        <div class="message">feat: Log access information for each route separately
-
-- Updated LogAccess function to accept a route parameter for logging
-- Modified StatusHandler and ChangeHandler to pass the route information to LogAccess
-- Ensured that access logs include the accessed route for better traceability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a3a8c2</div>
-                                        <div class="message">feat: Automatically generate random key when creating config.json
-
-- Implemented generateRandomKey function to create a 16-character random key composed of 1-f
-- Modified LoadConfig to generate a random key when creating config.json for the first time
-- Updated the initial message to inform users that the key can be changed in the config file</div>
+                                        <div class="sha">#0c2aa7e</div>
+                                        <div class="message">Update build.yml</div>
                                     </div>
                                 </div>
                             </section>
