@@ -1318,6 +1318,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">idekCTF 2024 minecraft - HACKED WP</div>
+                                <div class="date">19 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">DASCTF 2024 七月赛 misc部分 WP</div>
                                 <div class="date">21 Jul 2024</div>
                             </div>
@@ -1329,15 +1338,6 @@
                             <div class="infos">
                                 <div class="title">R3CTF-k8s-FileShare-赛后复现(reappear after game)</div>
                                 <div class="date">12 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">R3CTF 2024 WriteUp</div>
-                                <div class="date">10 Jun 2024</div>
                             </div>
                         </div>
                     </section>
