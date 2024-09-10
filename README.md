@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<div align="center">
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%209%20mins-blue)
 
@@ -86,7 +86,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
  Last Updated on 09/09/2024 18:11:30 UTC
 <!--END_SECTION:waka-->
-</div>
+
 
 <div align="center">
   <picture>
