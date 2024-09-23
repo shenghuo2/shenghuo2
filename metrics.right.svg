@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="622" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="592" class="">
     <defs>
         <style/>
     </defs>
@@ -57,7 +57,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1009.5666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1011.6333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -79,10 +79,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">10770</div>
+                                        <div class="value">10790</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 10770 times</div>
+                                <div class="text">Repositories have been deployed 10790 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -238,7 +238,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 23.3k out of 212m repositories</span>
+                                    <span class="gh">ranked 23.3k out of 218m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2137</div>
                                     </div>
@@ -333,6 +333,59 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shenghuo2/SHCTF2024</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#39364d6</div>
+                                        <div class="message">feat(出题): change</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">shenghuo2/SHCTF2024</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d68a680</div>
+                                        <div class="message">fix(pin): filter flag string</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#632864a</div>
+                                        <div class="message">feat(ai): done</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#932e265</div>
+                                        <div class="message">refactor(build_docker_images): handle target_subfolder and skip irrelevant folders
+
+- Added check for target_subfolder in build_docker_images function.
+- Skip folders that do not contain target_subfolder when it is not None.
+- Removed show_subfolders function call and directly handle target_subfolder.
+- Ensure only relevant subfolder information is processed and output.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">shenghuo2/SHCTF2024</span>
                                     </div>
@@ -355,62 +408,6 @@
                                     <div class="commit">
                                         <div class="sha">#3f63689</div>
                                         <div class="message">feat(week3): expect crypto all done</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">shenghuo2/SHCTF2024</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8f8f728</div>
-                                        <div class="message">feat(week2): all done</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4402fe2</div>
-                                        <div class="message">feat(week1 web): add md5 master</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ba219a</div>
-                                        <div class="message">fix: gittt dynamic flag</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">shenghuo2/SHCTF2024</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#24d3fd1</div>
-                                        <div class="message">fix(gittt): undone</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a3198e</div>
-                                        <div class="message">fix(ququ): fault</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2560d4b</div>
-                                        <div class="message">feat: and bash jail</div>
                                     </div>
                                 </div>
                             </section>
