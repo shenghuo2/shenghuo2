@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="522" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="441" class="">
     <defs>
         <style/>
     </defs>
@@ -57,7 +57,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1270.8966666666668 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1272.9633333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -79,10 +79,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">13299</div>
+                                        <div class="value">13319</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 13299 times</div>
+                                <div class="text">Repositories have been deployed 13319 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -238,7 +238,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 23.2k out of 218m repositories</span>
+                                    <span class="gh">ranked 23.2k out of 215m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2150</div>
                                     </div>
@@ -360,34 +360,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">QLNU-Sec-Team/QLNU-Sec-Team.github.io</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">QLNU-Sec-Team/QLNU-Sec-Team.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f3d66c</div>
-                                        <div class="message">Merge pull request #21 from shenghuo2/main
-
-fix(award): image wrong</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16ee947</div>
-                                        <div class="message">fix(award): image wrong
-
-https://github.com/QLNU-Sec-Team/QLNU-Sec-Team.github.io/issues/20</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
