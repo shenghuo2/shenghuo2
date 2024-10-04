@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="676" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="712" class="">
     <defs>
         <style/>
     </defs>
@@ -57,7 +57,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1513.9366666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1516.0033333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -79,10 +79,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">15651</div>
+                                        <div class="value">15671</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 15651 times</div>
+                                <div class="text">Repositories have been deployed 15671 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -215,7 +215,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.949999999999996 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.91125 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -238,12 +238,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 23.2k out of 219m repositories</span>
+                                    <span class="gh">ranked 23.2k out of 209m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">2160</div>
+                                        <div class="value">2159</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 2160 stars</div>
+                                <div class="text">Maintaining a repository with 2159 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -333,6 +333,42 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">shenghuo2/gzctf-bind-bot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#36aa434</div>
+                                        <div class="message">feat(cheat detect): show org</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ed52aa</div>
+                                        <div class="message">refactor(query teaminfo): modularization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd025f6</div>
+                                        <div class="message">feat: limit poke rate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f682cc</div>
+                                        <div class="message">fix: timezone  CMT</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a034bda</div>
+                                        <div class="message">feat: record "临时身份码" count ,mute and kick</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">shenghuo2/gzctf-bind-bot</span>
                                     </div>
@@ -394,34 +430,6 @@
                                     <div class="commit">
                                         <div class="sha">#55f02c6</div>
                                         <div class="message">fix: not finish</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">shenghuo2/gzctf-bind-bot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0af1a3b</div>
-                                        <div class="message">chore: dependents</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b66a06</div>
-                                        <div class="message">perf: use logger</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#193c57a</div>
-                                        <div class="message">feat: save json, cancel first report, can muti report</div>
                                     </div>
                                 </div>
                             </section>
