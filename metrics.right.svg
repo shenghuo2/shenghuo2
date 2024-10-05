@@ -57,7 +57,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1592.0566666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1594.1233333333332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -79,10 +79,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">16407</div>
+                                        <div class="value">16427</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 16407 times</div>
+                                <div class="text">Repositories have been deployed 16427 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -238,7 +238,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 23.2k out of 217m repositories</span>
+                                    <span class="gh">ranked 23.2k out of 218m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2160</div>
                                     </div>
@@ -340,8 +340,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#43da2a9</div>
-                                        <div class="message">ci: add workflow_dispatch</div>
+                                        <div class="sha">#a55a927</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -360,8 +360,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#057bc58</div>
-                                        <div class="message">ci: push to scoreboard branch</div>
+                                        <div class="sha">#285b1e0</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -380,8 +380,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d9be940</div>
-                                        <div class="message">fix: add CJK font</div>
+                                        <div class="sha">#c4f5e8c</div>
+                                        <div class="message">fix: git pull</div>
                                     </div>
                                 </div>
                             </section>
