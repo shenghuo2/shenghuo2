@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="757" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="656" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8406.786666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8408.853333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -116,10 +116,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">82356</div>
+                                        <div class="value">82376</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 82356 times</div>
+                                <div class="text">Repositories have been deployed 82376 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -400,40 +400,6 @@
                                     <div class="commit">
                                         <div class="sha">#2778b59</div>
                                         <div class="message">chores(fudu): rename to ban it</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">shenghuo2/zhenxun_bot_modified</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v2_refactor</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bf36303</div>
-                                        <div class="message">feat(message-sent-check): add automatic image message logging and improve manual image marking</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a3c6c0</div>
-                                        <div class="message">feat(message-sent-check): add message deletion functionality and improve versioning</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21dfdab</div>
-                                        <div class="message">feat(message-sent-check): improve message handling and add image marking feature
-
-- Enhanced message handling for forwarded, video, and image messages
-- Optimized image and forwarded message hash storage logic
-- Added a new command (#标记) to mark images and check for duplicates
-- Improved database schema to store message timestamps in UTC
-- Refactored message comparison logic for better performance</div>
                                     </div>
                                 </div>
                             </section>
