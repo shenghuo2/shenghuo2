@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="575" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="525" class="">
     <defs>
         <style/>
     </defs>
@@ -57,7 +57,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8536.056666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8537.710000000001 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -79,10 +79,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">83607</div>
+                                        <div class="value">83623</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 83607 times</div>
+                                <div class="text">Repositories have been deployed 83623 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -238,7 +238,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 21.4k out of 234m repositories</span>
+                                    <span class="gh">ranked 21.4k out of 230m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2462</div>
                                     </div>
@@ -333,6 +333,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shenghuo2/sleep-status</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/magisk-module</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ce8a1cc</div>
+                                        <div class="message">docs: add magisk module documentation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">shenghuo2/sleep-status</span>
                                     </div>
@@ -366,40 +386,6 @@ fix CI and auto pack magisk module</div>
                                 </div>
                                 <div class="details">
                                     <div>opened by suyoleaves in <span class="repo">QLNU-Sec-Team/QLNU-Sec-Team.github.io</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">shenghuo2/sleep-status</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fed96ee</div>
-                                        <div class="message">Merge pull request #7 from shenghuo2/develop
-
-fix CI and auto pack magisk module</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a186baa</div>
-                                        <div class="message">feat: include magisk module in releases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c8e4e4</div>
-                                        <div class="message">Merge branch 'master' into develop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d02e22d</div>
-                                        <div class="message">fix: ci wrong</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
