@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="776" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="709" class="">
     <defs>
         <style/>
     </defs>
@@ -104,7 +104,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8624.303333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8625.956666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -126,10 +126,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">84461</div>
+                                        <div class="value">84477</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 84461 times</div>
+                                <div class="text">Repositories have been deployed 84477 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -285,7 +285,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 21.4k out of 241m repositories</span>
+                                    <span class="gh">ranked 21.4k out of 228m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2468</div>
                                     </div>
@@ -380,54 +380,31 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">shenghuo2/sleep-status</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9751f6a</div>
-                                        <div class="message">Merge pull request #8 from shenghuo2/develop
+                                        <div class="sha">#d8932ad</div>
+                                        <div class="message">Merge pull request #9 from shenghuo2/develop
 
-feat: add records API to show sleep records</div>
+fix(api): resolve deadlock in records endpoint and heartbeat handling</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a782f76</div>
+                                        <div class="sha">#e62b6c4</div>
                                         <div class="message">docs: update</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#603e75a</div>
-                                        <div class="message">fix: resolve deadlock in /records API endpoint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ba51ad</div>
-                                        <div class="message">docs: update README
-* add collapsible table of contents
- * add v0.1.1 changelog
- * update API documentation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#620645a</div>
-                                        <div class="message">feat: add records API and optimize sleep record storage
+                                        <div class="sha">#d23e1e6</div>
+                                        <div class="message">fix(api): resolve deadlock in records endpoint and heartbeat handling
 
-- feat: add /records API endpoint to view recent sleep records
-  * support custom limit parameter (default: 30)
-  * no authentication required
-  * return records in JSON array format
-
-- refactor: optimize sleep record storage format
-  * change storage format from line-by-line JSON to JSON array
-  * add automatic migration for old format records
-  * improve error handling and user feedback</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b4f121</div>
-                                        <div class="message">docs: update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8be5f88</div>
-                                        <div class="message">chores: delete unnessary thing</div>
+- refactor(heartbeat): implement fine-grained locking mechanism to prevent deadlocks
+- perf(handlers): use async logging to avoid blocking API responses
+- feat(config): add non-locking version of SaveSleepRecord function
+- refactor(handlers): extract status change logic to dedicated functions
+- fix(concurrency): prevent lock contention between heartbeat checker and API handlers</div>
                                     </div>
                                 </div>
                             </section>
@@ -440,12 +417,12 @@ feat: add records API to show sleep records</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#8 feat: add records API to show sleep records</span>
+                                        <span class="issue">#9 fix(api): resolve deadlock in records endpoint and heartbeat handling</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">shenghuo2/sleep-status</span></div>
-                                    <div>5 files changed <span class="code">++266 --21</span></div>
+                                    <div>5 files changed <span class="code">++179 --35</span></div>
                                 </div>
                             </section>
                         </div>
@@ -457,12 +434,12 @@ feat: add records API to show sleep records</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#8 feat: add records API to show sleep records</span>
+                                        <span class="issue">#9 fix(api): resolve deadlock in records endpoint and heartbeat handling</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">shenghuo2/sleep-status</span></div>
-                                    <div>5 files changed <span class="code">++266 --21</span></div>
+                                    <div>5 files changed <span class="code">++179 --35</span></div>
                                 </div>
                             </section>
                         </div>
