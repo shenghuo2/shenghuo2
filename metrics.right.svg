@@ -104,7 +104,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8594.13 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8596.196666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -126,10 +126,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">84169</div>
+                                        <div class="value">84189</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 84169 times</div>
+                                <div class="text">Repositories have been deployed 84189 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -262,7 +262,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.768750000000004 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.8075 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -285,12 +285,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 21.4k out of 239m repositories</span>
+                                    <span class="gh">ranked 21.4k out of 232m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">2465</div>
+                                        <div class="value">2466</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 2465 stars</div>
+                                <div class="text">Maintaining a repository with 2466 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
