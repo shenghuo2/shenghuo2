@@ -79,14 +79,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b5285bc</div>
-                                        <div class="message">Merge pull request #9 from shenghuo2/main
+                                        <div class="sha">#b8b807e</div>
+                                        <div class="message">Merge pull request #11 from shenghuo2/main
 
-test: commit img</div>
+feat: week6 add new img</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#359ab7d</div>
-                                        <div class="message">test: commit img</div>
+                                        <div class="sha">#6e26b84</div>
+                                        <div class="message">feat: week6 add new img</div>
                                     </div>
                                 </div>
                             </section>
@@ -99,12 +99,12 @@ test: commit img</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#9 test: commit img</span>
+                                        <span class="issue">#11 feat: week6 add new img</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">QLNU-Sec-Team/test-act</span></div>
-                                    <div>1 file changed <span class="code">++0 --0</span></div>
+                                    <div>2 files changed <span class="code">++16 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -116,12 +116,12 @@ test: commit img</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#9 test: commit img</span>
+                                        <span class="issue">#11 feat: week6 add new img</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">QLNU-Sec-Team/test-act</span></div>
-                                    <div>1 file changed <span class="code">++0 --0</span></div>
+                                    <div>2 files changed <span class="code">++16 --0</span></div>
                                 </div>
                             </section>
                         </div>
