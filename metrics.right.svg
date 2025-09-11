@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="453" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="369" class="">
     <defs>
         <style/>
     </defs>
@@ -79,8 +79,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d4c001a</div>
-                                        <div class="message">ci: update docker build context paths in workflows</div>
+                                        <div class="sha">#d3488ae</div>
+                                        <div class="message">feat(pwn-week2-stackoverflow)</div>
                                     </div>
                                 </div>
                             </section>
@@ -92,31 +92,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8bae1b8</div>
-                                        <div class="message">feat(pwn-week1-ncncnc): add new challenge ncncnc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#680c38a</div>
-                                        <div class="message">Merge branch 'misc-linuxprivilegeescalation' into snapshot</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c5d127</div>
-                                        <div class="message">feat(pwn-week1-勇者救公主): add new challenge</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b99e329</div>
-                                        <div class="message">docs: update port, cpu allocation and testing info</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ca1cb1</div>
-                                        <div class="message">Add misc-linuxprivilegeescalation challenge</div>
+                                        <div class="sha">#559f228</div>
+                                        <div class="message">docs: Update README and unify workflow naming formats</div>
                                     </div>
                                 </div>
                             </section>
@@ -128,19 +112,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">web-vme50</span></div>
+                                    <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9f1a025</div>
-                                        <div class="message">docs: Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d158de</div>
-                                        <div class="message">docs: Update README.md</div>
+                                        <div class="sha">#1bf7dd9</div>
+                                        <div class="message">feat(pwn-week1-xiantuyize2): add new challenge 仙途遗泽2</div>
                                     </div>
                                 </div>
                             </section>
