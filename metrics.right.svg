@@ -79,8 +79,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2f97ed4</div>
-                                        <div class="message">ci(pwn-week3-fmt): fix workflow name</div>
+                                        <div class="sha">#e475baa</div>
+                                        <div class="message">feat(web-week3-ezphp)</div>
                                     </div>
                                 </div>
                             </section>
@@ -99,8 +99,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2565838</div>
-                                        <div class="message">feat(pwn-week3-fmt): add challenge files and CI workflow</div>
+                                        <div class="sha">#710cf42</div>
+                                        <div class="message">ci: update workflow for web week3 challenge</div>
                                     </div>
                                 </div>
                             </section>
@@ -119,13 +119,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5e7cd9f</div>
-                                        <div class="message">refactor(pwn-week2-where-are-my-addr): migrate to lightweight alpine-based container
-
-- Replace ubuntu base image with ghcr.io/gzctf/challenge-base/socat:alpine
-- Update port from 9999 to 70
-- Move Dockerfile and related files to build directory
-- Simplify container setup with new start.sh script</div>
+                                        <div class="sha">#d9f940f</div>
+                                        <div class="message">feat(web-week2-moshu-dazahui): add web challenge week3 magic container setup</div>
                                     </div>
                                 </div>
                             </section>
