@@ -73,15 +73,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">question-ctf/question-ctf.github.io</span>
+                                        <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5dc294e</div>
-                                        <div class="message">ci(deploy): update cname to ilovectf.cn in workflow
-style: adjust spacing and styling in waiting page</div>
+                                        <div class="sha">#b6ff549</div>
+                                        <div class="message">feat(crypto-week1-strange_machine): add strange machine challenge with xor encryption</div>
                                     </div>
                                 </div>
                             </section>
@@ -94,14 +93,14 @@ style: adjust spacing and styling in waiting page</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">question-ctf/question-ctf.github.io</span>
+                                        <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#661a734</div>
-                                        <div class="message">style(waiting-page): adjust container margins and add max-width</div>
+                                        <div class="sha">#f5de2a8</div>
+                                        <div class="message">fix(web-week4-ez_ref): rename folder</div>
                                     </div>
                                 </div>
                             </section>
@@ -114,14 +113,14 @@ style: adjust spacing and styling in waiting page</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">question-ctf/question-ctf.github.io</span>
+                                        <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cd8d352</div>
-                                        <div class="message">docs: update page title</div>
+                                        <div class="sha">#855b258</div>
+                                        <div class="message">feat(web-week4-ez_ref): add docker setup and ci workflow for challenge</div>
                                     </div>
                                 </div>
                             </section>
