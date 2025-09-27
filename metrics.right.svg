@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="386" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="389" class="">
     <defs>
         <style/>
     </defs>
@@ -72,6 +72,57 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">shenghuo2/a1ctf-feishu-workflows</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a8e4e15</div>
+                                        <div class="message">fix(多行题目描述): add support for multi-text content conversion
+
+Handle arrays containing mixed text and URL objects by combining them into a single string. This ensures proper formatting when converting local fields to Feishu format.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c41edfd</div>
+                                        <div class="message">feat(向飞书反向全量更新数据): add data push functionality to feishu integration
+
+- Implement API endpoints for pushing local data to Feishu
+- Add frontend components for data push operations
+- Include field conversion logic for Feishu format
+- Update challenge data with attachment URLs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shenghuo2/gzctf-bind-bot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#df7421a</div>
+                                        <div class="message">all</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
@@ -81,56 +132,6 @@
                                     <div class="commit">
                                         <div class="sha">#6d20131</div>
                                         <div class="message">fix(pwn-week1-yongzhejiugongzhu)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">shenghuo2/a1ctf-feishu-workflows</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#198f40a</div>
-                                        <div class="message">feat(flag-processing): add trim functionality for flag content fields
-
-Add parseFlagField utility to consistently trim whitespace from flag content
-in both routes and services. This ensures cleaner flag processing and prevents
-issues with leading/trailing spaces in dynamic flag generation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#246aa49</div>
-                                        <div class="message">fix(批量更新-多行描述): add field parser to ensure proper challenge description formatting
-
-Add parseField utility to handle various field formats from Feishu and ensure correct concatenation of challenge descriptions. This addresses inconsistent formatting in challenge descriptions when coming from different data sources.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">snapshot</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e95d066</div>
-                                        <div class="message">fix(pwn-week1-yongzhejiugongzhu): update docker build context path</div>
                                     </div>
                                 </div>
                             </section>
