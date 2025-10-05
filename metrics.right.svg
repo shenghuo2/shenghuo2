@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="399" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="366" class="">
     <defs>
         <style/>
     </defs>
@@ -72,23 +72,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98b54a7</div>
-                                        <div class="message">build(pwn-week3-narcissus): add challenge files and CI workflow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbe1f2f</div>
-                                        <div class="message">feat(pwn-week3-midas): add week3 midas challenge with docker setup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20281dc</div>
-                                        <div class="message">ci(pwn-week3-sokoban): add docker build and github workflow for challenge</div>
+                                        <div class="sha">#9d9e7eb</div>
+                                        <div class="message">build(pwn-week4-short-or-out): update dockerfile and add post-build script</div>
                                     </div>
                                 </div>
                             </section>
@@ -107,8 +99,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c2e87ff</div>
-                                        <div class="message">feat(web-week3-xxe): add XXE challenge with PHP/nginx setup</div>
+                                        <div class="sha">#00310e5</div>
+                                        <div class="message">feat(web-week2-ezsql): add web-week2-ezsql challenge with login and flag query functionality</div>
                                     </div>
                                 </div>
                             </section>
@@ -120,15 +112,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bb148dc</div>
-                                        <div class="message">Merge branch 'crypto-week4-xaleid' into snapshot</div>
+                                        <div class="sha">#b981a2d</div>
+                                        <div class="message">fix(pwn-week4-short-or-out): rename week3 to week4</div>
                                     </div>
                                 </div>
                             </section>
