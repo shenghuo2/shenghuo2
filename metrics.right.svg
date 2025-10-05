@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="468" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="399" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.topics{display:flex;flex-wrap:wrap}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -73,31 +73,22 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 3 commits in
-                                        <span class="repo">shenghuo2/gzctf-bind-bot</span>
+                                        <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev-a1ctf</span></div>
+                                    <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#802b754</div>
-                                        <div class="message">feat(base): add config validation for monitor initialization
-
-Add config validator module to check YAML configuration file structure and content
-Validate config before monitor initialization to prevent runtime errors</div>
+                                        <div class="sha">#98b54a7</div>
+                                        <div class="message">build(pwn-week3-narcissus): add challenge files and CI workflow</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8e00bb6</div>
-                                        <div class="message">fix(cheats): add input validation and update config settings
-
-validate remote_data type in cheat detection and cheat_type input
-update cheat type mapping to match API documentation
-adjust check intervals and enable prod platform in config</div>
+                                        <div class="sha">#dbe1f2f</div>
+                                        <div class="message">feat(pwn-week3-midas): add week3 midas challenge with docker setup</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a924ae4</div>
-                                        <div class="message">feat(query_tool): add participation status display for teams
-
-Add helper function to translate participation status into Chinese and display it in team details</div>
+                                        <div class="sha">#20281dc</div>
+                                        <div class="message">ci(pwn-week3-sokoban): add docker build and github workflow for challenge</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,78 +100,35 @@ Add helper function to translate participation status into Chinese and display i
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">shenghuo2/gzctf-bind-bot</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev-a1ctf</span></div>
+                                    <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c4b7a61</div>
-                                        <div class="message">fix(base): add data validation and change detection in monitor
-
-Add checks for empty remote data and processed data before updating
-Implement _data_changed method to compare current and new data
-Only update local data when actual changes are detected</div>
+                                        <div class="sha">#c2e87ff</div>
+                                        <div class="message">feat(web-week3-xxe): add XXE challenge with PHP/nginx setup</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9cbdde</div>
-                                        <div class="message">fix(notices): refactor data handling and add path utilities
-
-- Extract path utilities to separate module to avoid circular imports
-- Improve data serialization format for notices
-- Add better error handling and logging for data operations</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cfa8afb</div>
-                                        <div class="message">feat(cheats): add team group name lookup and update cheat types
-
-Add get_team_group_name function to fetch team group information
-Update cheat type display names mapping to reflect current types
-Enhance cheat monitoring messages with team group details</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4c973b</div>
-                                        <div class="message">chores(cheats): improve cheat notification message formatting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9dff15</div>
-                                        <div class="message">feat(cheats): add cheat monitoring plugin with data models and API integration
-
-- Implement cheat detection system with models for cheat items and responses
-- Add data source module for API interaction and local data handling
-- Create monitor class with message formatting and new cheat detection
-- Update config with cheat plugin settings and new QQ group
-- Refactor base monitor's is_first_run method for better error handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d07a0c2</div>
-                                        <div class="message">refactor(notices): extract data utils functions from base monitor
-
-Move data file path and directory utilities to separate module in base package
-Replace temporary monitor usage with direct utility function calls</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93cb460</div>
-                                        <div class="message">refactor(notices): migrate notices plugin to use base monitor framework</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ddbd65</div>
-                                        <div class="message">feat(query_tool): enhance user and team query with mutual details
-
-- Add detail field to Member model for user details
-- Add team field to User model for team details
-- Improve check_group_permission to return platform name
-- Fetch and display mutual details between users and teams
-- Refactor message formatting into separate functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86174a9</div>
-                                        <div class="message">feat(query_tool): add new query tool plugin for team and user search
-
-Implement new query tool plugin that allows searching teams and users through admin API
-Update config to support new plugin and rename platform identifiers
-Add timeout handling for notices plugin</div>
+                                        <div class="sha">#bb148dc</div>
+                                        <div class="message">Merge branch 'crypto-week4-xaleid' into snapshot</div>
                                     </div>
                                 </div>
                             </section>
