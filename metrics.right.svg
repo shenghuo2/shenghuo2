@@ -77,10 +77,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">forensics-TV_of_Hao_Mao</span></div>
+                                    <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a740f1b</div>
-                                        <div class="message">Change action to the correct name</div>
+                                        <div class="sha">#3dec60a</div>
+                                        <div class="message">fix(web-week3-android-or-apple): create images directory before setting permissions</div>
                                     </div>
                                 </div>
                             </section>
@@ -99,8 +99,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9d9e7eb</div>
-                                        <div class="message">build(pwn-week4-short-or-out): update dockerfile and add post-build script</div>
+                                        <div class="sha">#32a61f3</div>
+                                        <div class="message">build(web-week3-android-or-apple): add www.zip build artifact</div>
                                     </div>
                                 </div>
                             </section>
@@ -119,8 +119,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snapshot</span></div>
                                     <div class="commit">
-                                        <div class="sha">#00310e5</div>
-                                        <div class="message">feat(web-week2-ezsql): add web-week2-ezsql challenge with login and flag query functionality</div>
+                                        <div class="sha">#3369f56</div>
+                                        <div class="message">feat(web-week3-android-or-apple): add android or apple challenge with login system</div>
                                     </div>
                                 </div>
                             </section>
