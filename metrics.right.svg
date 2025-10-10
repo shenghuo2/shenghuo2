@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="366" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="469" class="">
     <defs>
         <style/>
     </defs>
@@ -72,6 +72,50 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">snapshot</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9c8def5</div>
+                                        <div class="message">feat(re-ezwasm): update challenge assets and styles for online flag checker</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad6b472</div>
+                                        <div class="message">Merge branch 'forensics-week3-tv_of_hao_mao' into snapshot</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3280d8</div>
+                                        <div class="message">Add NekoChecker files for forensics-week3-tv_of_hao_mao challenge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83f31b0</div>
+                                        <div class="message">refactor(forensics-week3-tv_of_hao_mao): migrate challenge to new structure and reduce resources</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7e4dea</div>
+                                        <div class="message">Remove underscore characters in container name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a740f1b</div>
+                                        <div class="message">Change action to the correct name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3bd668</div>
+                                        <div class="message">Add forensics checker container of 爱茂TV</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
                                     </div>
@@ -101,26 +145,6 @@
                                     <div class="commit">
                                         <div class="sha">#83f31b0</div>
                                         <div class="message">refactor(forensics-week3-tv_of_hao_mao): migrate challenge to new structure and reduce resources</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">question-ctf/Question-CTF-2025-INTERNAL</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">snapshot</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2d5622d</div>
-                                        <div class="message">feat(web-week3-mysql-manage-tool)</div>
                                     </div>
                                 </div>
                             </section>
