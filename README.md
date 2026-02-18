@@ -41,24 +41,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 15 mins        █████████████░░░░░░░░░░░░   51.61 % 
-CSV                      58 mins             ██████████░░░░░░░░░░░░░░░   39.72 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Python                   1 hr 15 mins        ██████████████░░░░░░░░░░░   54.35 % 
+CSV                      58 mins             ██████████░░░░░░░░░░░░░░░   41.83 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Windsurf                 1 hr 55 mins        ████████████████████░░░░░   78.75 % 
-VS Code                  31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Windsurf                 1 hr 55 mins        █████████████████████░░░░   82.93 % 
+VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 
 🐱‍💻 Projects: 
-shctf-writeup-status-py  1 hr 55 mins        ████████████████████░░░░░   78.75 % 
-Unknown Project          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-2024-Archive             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+shctf-writeup-status-py  1 hr 55 mins        █████████████████████░░░░   82.93 % 
+Unknown Project          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 
 💻 Operating System: 
-Linux                    1 hr 55 mins        ████████████████████░░░░░   78.75 % 
-Windows                  31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Linux                    1 hr 55 mins        █████████████████████░░░░   82.93 % 
+Windows                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 ```
 
 **I Mostly Code in Python** 
