@@ -41,20 +41,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CSV                      1 hr 11 mins        █████████████░░░░░░░░░░░░   50.13 % 
-Markdown                 45 mins             ████████░░░░░░░░░░░░░░░░░   31.64 % 
-Python                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Windsurf                 2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shctf-writeup-status-py  1 hr 33 mins        ████████████████░░░░░░░░░   65.26 % 
-SHCTF-3rd-Archive        49 mins             █████████░░░░░░░░░░░░░░░░   34.74 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
