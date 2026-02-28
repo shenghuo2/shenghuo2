@@ -41,16 +41,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   27 mins             ██████████████░░░░░░░░░░░   55.27 % 
+Jinja                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Windsurf                 50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wakatime-usage-webui     27 mins             ██████████████░░░░░░░░░░░   55.36 % 
+nonebot-plugin-wakatime  14 mins             ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+zhenxunbot               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
