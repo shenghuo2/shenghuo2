@@ -41,16 +41,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 mins             █████████████████████████   100.00 % 
+Python                   41 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Windsurf                 12 mins             █████████████████████████   100.00 % 
+Windsurf                 41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               12 mins             █████████████████████████   100.00 % 
+zhenxunbot               41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
+Linux                    41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
