@@ -41,16 +41,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   41 mins             █████████████████████████   100.00 % 
+JSON                     46 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
+Python                   41 mins             ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Other                    33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Rust                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-Windsurf                 41 mins             █████████████████████████   100.00 % 
+Windsurf                 2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               41 mins             █████████████████████████   100.00 % 
+sub-recorder             1 hr 52 mins        ██████████████████░░░░░░░   72.95 % 
+zhenxunbot               41 mins             ███████░░░░░░░░░░░░░░░░░░   27.05 % 
 
 💻 Operating System: 
-Linux                    41 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
