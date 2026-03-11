@@ -41,21 +41,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     46 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Python                   41 mins             ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-Other                    33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Rust                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JSON                     46 mins             ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Python                   41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Other                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+TOML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🔥 Editors: 
-Windsurf                 2 hrs 33 mins       █████████████████████████   100.00 % 
+Windsurf                 3 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sub-recorder             1 hr 52 mins        ██████████████████░░░░░░░   72.95 % 
-zhenxunbot               41 mins             ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+sub-recorder             2 hrs 43 mins       ████████████████████░░░░░   79.70 % 
+zhenxunbot               41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 
 💻 Operating System: 
-Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
