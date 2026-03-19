@@ -41,26 +41,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-Text                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-YAML                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+TypeScript               2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
+YAML                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Text                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-Windsurf                 5 hrs 35 mins       ████████████████████████░   97.18 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Windsurf                 7 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cranemail-self-service   3 hrs 7 mins        ██████████████░░░░░░░░░░░   54.41 % 
-sub-recorder             1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-fanbox                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-zhenxunbot               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-img_compare              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+sub-recorder             4 hrs 11 mins       █████████████░░░░░░░░░░░░   52.93 % 
+cranemail-self-service   3 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.49 % 
+zhenxunbot               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+img_compare              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Linux                    4 hrs 49 mins       █████████████████████░░░░   83.82 % 
-Windows                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Linux                    7 hrs 45 mins       ████████████████████████░   97.82 % 
+Windows                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 **I Mostly Code in Python** 
