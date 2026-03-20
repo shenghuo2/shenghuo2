@@ -41,24 +41,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
-YAML                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-Text                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.94 % 
+YAML                     2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+Text                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Rust                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🔥 Editors: 
-Windsurf                 7 hrs 55 mins       █████████████████████████   100.00 % 
+Windsurf                 8 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sub-recorder             4 hrs 11 mins       █████████████░░░░░░░░░░░░   52.93 % 
-cranemail-self-service   3 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.49 % 
-zhenxunbot               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-img_compare              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+sub-recorder             5 hrs 9 mins        ███████████████░░░░░░░░░░   60.12 % 
+cranemail-self-service   3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.54 % 
+img_compare              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+zhenxunbot               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Linux                    7 hrs 45 mins       ████████████████████████░   97.82 % 
-Windows                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Linux                    8 hrs 23 mins       ████████████████████████░   97.99 % 
+Windows                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 **I Mostly Code in Python** 
