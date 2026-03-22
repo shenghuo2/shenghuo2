@@ -41,25 +41,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
-YAML                     2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-Text                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Rust                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+TypeScript               3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
+YAML                     2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Rust                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-Windsurf                 10 hrs 2 mins       ████████████████████████░   97.22 % 
-VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Windsurf                 9 hrs 56 mins       ████████████████████████░   97.19 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🐱‍💻 Projects: 
-sub-recorder             6 hrs 40 mins       ████████████████░░░░░░░░░   64.57 % 
-cranemail-self-service   3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.31 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-zhenxunbot               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+sub-recorder             8 hrs 3 mins        ████████████████████░░░░░   78.77 % 
+cloudmark-studio         42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+N0wayBack.github.io      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+cranemail-self-service   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-Linux                    9 hrs 54 mins       ████████████████████████░   95.98 % 
-Windows                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Linux                    9 hrs 48 mins       ████████████████████████░   95.94 % 
+Windows                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 ```
 
 **I Mostly Code in Python** 
