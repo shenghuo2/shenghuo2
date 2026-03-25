@@ -28,10 +28,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1733 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-🌆 Daytime                2287 commits        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-🌃 Evening                2398 commits        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-🌙 Night                  2003 commits        ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+🌞 Morning                1745 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+🌆 Daytime                2293 commits        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+🌃 Evening                2414 commits        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+🌙 Night                  2005 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
 ```
 
 
@@ -41,26 +41,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.64 % 
-YAML                     2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Rust                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+YAML                     2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+TypeScript               2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+Rust                     2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🔥 Editors: 
-Windsurf                 10 hrs 49 mins      ██████████████████████░░░   89.24 % 
-VS Code                  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Windsurf                 9 hrs 34 mins       ██████████████████████░░░   88.00 % 
+VS Code                  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 
 🐱‍💻 Projects: 
-sub-recorder             7 hrs 55 mins       ████████████████░░░░░░░░░   65.27 % 
-cloudmark-studio         2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Unknown Project          54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-N0wayBack.github.io      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-map                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+sub-recorder             6 hrs 40 mins       ███████████████░░░░░░░░░░   61.29 % 
+cloudmark-studio         2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Unknown Project          54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+N0wayBack.github.io      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+map                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Linux                    10 hrs 50 mins      ██████████████████████░░░   89.34 % 
-Windows                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Linux                    9 hrs 35 mins       ██████████████████████░░░   88.12 % 
+Windows                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 ```
 
 **I Mostly Code in Python** 
