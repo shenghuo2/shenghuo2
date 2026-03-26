@@ -25,6 +25,44 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1745 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+🌆 Daytime                2293 commits        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+🌃 Evening                2414 commits        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+🌙 Night                  2005 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Rust                     1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+YAML                     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+TypeScript               1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+
+🔥 Editors: 
+Windsurf                 6 hrs 39 mins       █████████████████████░░░░   83.61 % 
+VS Code                  1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+
+🐱‍💻 Projects: 
+sub-recorder             3 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.38 % 
+cloudmark-studio         2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Unknown Project          54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+N0wayBack.github.io      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+map                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+
+💻 Operating System: 
+Linux                    6 hrs 40 mins       █████████████████████░░░░   83.78 % 
+Windows                  1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
