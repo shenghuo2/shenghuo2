@@ -41,24 +41,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   37.39 % 
-YAML                     1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-Rust                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Python                   1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   32.51 % 
+TypeScript               1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+YAML                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Rust                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-Windsurf                 3 hrs 15 mins       ███████████████████████░░   90.08 % 
-VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Windsurf                 5 hrs 11 mins       ████████████████████████░   95.96 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🐱‍💻 Projects: 
-sub-recorder             2 hrs 59 mins       █████████████████████░░░░   82.81 % 
-cloudmark-studio         32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+sub-recorder             2 hrs 59 mins       ██████████████░░░░░░░░░░░   55.49 % 
+zhenxunbot               2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.01 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Linux                    3 hrs 32 mins       ████████████████████████░   97.76 % 
-Windows                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Linux                    5 hrs 19 mins       █████████████████████████   98.50 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 
 **I Mostly Code in Python** 
