@@ -25,42 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1745 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-🌆 Daytime                2309 commits        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-🌃 Evening                2415 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-🌙 Night                  2006 commits        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.52 % 
-TypeScript               1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-YAML                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Rust                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-
-🔥 Editors: 
-Windsurf                 5 hrs 48 mins       ████████████████████████░   96.38 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-
-🐱‍💻 Projects: 
-sub-recorder             2 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.72 % 
-zhenxunbot               2 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.94 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-
-💻 Operating System: 
-Linux                    5 hrs 56 mins       █████████████████████████   98.66 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
