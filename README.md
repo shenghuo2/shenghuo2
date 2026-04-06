@@ -41,24 +41,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.97 % 
-YAML                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-TypeScript               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Python                   3 hrs 14 mins       █████████████████░░░░░░░░   66.44 % 
+Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-Windsurf                 6 hrs 21 mins       ████████████████████████░   97.89 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Windsurf                 4 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               3 hrs 55 mins       ███████████████░░░░░░░░░░   60.41 % 
-sub-recorder             2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
-fanbox                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+zhenxunbot               3 hrs 55 mins       ████████████████████░░░░░   80.64 % 
+fanbox                   56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
 
 💻 Operating System: 
-Linux                    6 hrs 13 mins       ████████████████████████░   95.72 % 
-Windows                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Linux                    3 hrs 55 mins       ████████████████████░░░░░   80.64 % 
+Windows                  56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
 ```
 
 **I Mostly Code in Python** 
