@@ -25,42 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1745 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-🌆 Daytime                2309 commits        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-🌃 Evening                2415 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-🌙 Night                  2006 commits        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    3 hrs 46 mins       ████████████████░░░░░░░░░   62.36 % 
-YAML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Skript                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████░░░░   84.44 % 
-Windsurf                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-
-🐱‍💻 Projects: 
-server                   4 hrs 28 mins       ██████████████████░░░░░░░   73.89 % 
-fanbox                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Rime                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-13083                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-
-💻 Operating System: 
-Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
