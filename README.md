@@ -41,25 +41,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 42 mins      ██████████████████░░░░░░░   70.69 % 
-YAML                     4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Markdown                 4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Skript                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Git Config               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    34 hrs 34 mins      ██████████████████░░░░░░░   73.02 % 
+YAML                     5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Markdown                 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Skript                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Git Config               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  37 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  47 hrs 17 mins      █████████████████████████   99.91 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-STELLA-git               27 hrs 2 mins       ██████████████████░░░░░░░   71.56 % 
-stella-town              5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-server                   4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-SweetTask-src            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Rime                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+STELLA-git               36 hrs 4 mins       ███████████████████░░░░░░   76.21 % 
+stella-town              5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+server                   4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Rime                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+SweetTask-src            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Linux                    33 hrs 4 mins       ██████████████████████░░░   87.56 % 
-Windows                  4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Linux                    42 hrs 7 mins       ██████████████████████░░░   88.97 % 
+Windows                  5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 ```
 
 **I Mostly Code in Python** 
