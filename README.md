@@ -41,26 +41,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    34 hrs 34 mins      ██████████████████░░░░░░░   73.02 % 
-YAML                     5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Markdown                 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Skript                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Git Config               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Other                    35 hrs 48 mins      ███████████████████░░░░░░   74.12 % 
+Markdown                 5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+YAML                     5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Git Config               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Skript                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  47 hrs 17 mins      █████████████████████████   99.91 % 
+VS Code                  48 hrs 16 mins      █████████████████████████   99.91 % 
 Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-STELLA-git               36 hrs 4 mins       ███████████████████░░░░░░   76.21 % 
-stella-town              5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-server                   4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Rime                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-SweetTask-src            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+STELLA-git               41 hrs 33 mins      ██████████████████████░░░   86.01 % 
+stella-town              5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Rime                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+SweetTask-src            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+stella-node-status       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Linux                    42 hrs 7 mins       ██████████████████████░░░   88.97 % 
-Windows                  5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Linux                    47 hrs 35 mins      █████████████████████████   98.52 % 
+Windows                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
 **I Mostly Code in Python** 
