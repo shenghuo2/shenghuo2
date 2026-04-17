@@ -41,25 +41,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    35 hrs 48 mins      ███████████████████░░░░░░   74.12 % 
-Markdown                 5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-YAML                     5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Other                    35 hrs 55 mins      ███████████████████░░░░░░   74.05 % 
+Markdown                 5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+YAML                     5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 Git Config               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 Skript                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  48 hrs 16 mins      █████████████████████████   99.91 % 
+VS Code                  48 hrs 28 mins      █████████████████████████   99.91 % 
 Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-STELLA-git               41 hrs 33 mins      ██████████████████████░░░   86.01 % 
-stella-town              5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+STELLA-git               41 hrs 45 mins      ██████████████████████░░░   86.07 % 
+stella-town              5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 Rime                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 SweetTask-src            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 stella-node-status       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Linux                    47 hrs 35 mins      █████████████████████████   98.52 % 
+Linux                    47 hrs 47 mins      █████████████████████████   98.52 % 
 Windows                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
