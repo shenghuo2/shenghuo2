@@ -25,6 +25,44 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1745 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+🌆 Daytime                2309 commits        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+🌃 Evening                2415 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌙 Night                  2006 commits        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    40 hrs 16 mins      ███████████████████░░░░░░   75.83 % 
+Markdown                 5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+YAML                     5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Git Config               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Python                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+
+🔥 Editors: 
+VS Code                  53 hrs 4 mins       █████████████████████████   99.92 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🐱‍💻 Projects: 
+STELLA-git               42 hrs 20 mins      ████████████████████░░░░░   79.70 % 
+stella-town              5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+项目设计                     4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Rime                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+SweetTask-src            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+
+💻 Operating System: 
+Linux                    48 hrs 22 mins      ███████████████████████░░   91.07 % 
+Windows                  4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
