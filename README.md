@@ -25,44 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1745 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-🌆 Daytime                2309 commits        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-🌃 Evening                2415 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-🌙 Night                  2006 commits        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    35 hrs 55 mins      ███████████████████░░░░░░   74.05 % 
-Markdown                 5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-YAML                     5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Git Config               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Skript                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-
-🔥 Editors: 
-VS Code                  48 hrs 28 mins      █████████████████████████   99.91 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-
-🐱‍💻 Projects: 
-STELLA-git               41 hrs 45 mins      ██████████████████████░░░   86.07 % 
-stella-town              5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Rime                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-SweetTask-src            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-stella-node-status       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-
-💻 Operating System: 
-Linux                    47 hrs 47 mins      █████████████████████████   98.52 % 
-Windows                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
