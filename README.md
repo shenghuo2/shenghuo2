@@ -41,26 +41,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    40 hrs 16 mins      ███████████████████░░░░░░   75.83 % 
-Markdown                 5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-YAML                     5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Git Config               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Python                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    34 hrs 13 mins      ████████████████████░░░░░   79.77 % 
+Markdown                 4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+YAML                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Python                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Skript                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  53 hrs 4 mins       █████████████████████████   99.92 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+VS Code                  42 hrs 51 mins      █████████████████████████   99.90 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-STELLA-git               42 hrs 20 mins      ████████████████████░░░░░   79.70 % 
-stella-town              5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-项目设计                     4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Rime                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-SweetTask-src            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+STELLA-git               37 hrs 47 mins      ██████████████████████░░░   88.08 % 
+项目设计                     4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Rime                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+SweetTask-src            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+stella-node-status       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Linux                    48 hrs 22 mins      ███████████████████████░░   91.07 % 
-Windows                  4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Linux                    38 hrs 9 mins       ██████████████████████░░░   88.94 % 
+Windows                  4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 ```
 
 **I Mostly Code in Python** 
