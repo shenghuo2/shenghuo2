@@ -41,25 +41,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 56 mins      ████████████████████░░░░░   79.64 % 
-Markdown                 2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-YAML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Other                    14 hrs 17 mins      ██████████████░░░░░░░░░░░   57.70 % 
+C                        3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Markdown                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Python                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 30 mins      █████████████████████████   99.84 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+VS Code                  18 hrs 20 mins      ███████████████████░░░░░░   74.02 % 
+Unknown Editor           6 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
 
 🐱‍💻 Projects: 
-STELLA-git               15 hrs 20 mins      ██████████████░░░░░░░░░░░   55.66 % 
-项目设计                     11 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   41.93 % 
-Rime                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+项目设计                     13 hrs 9 mins       █████████████░░░░░░░░░░░░   53.12 % 
+STELLA-git               6 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+1.stm32程序                4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+uniapp-src               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 20 mins      ██████████████░░░░░░░░░░░   55.66 % 
-Windows                  12 hrs 13 mins      ███████████░░░░░░░░░░░░░░   44.34 % 
+Windows                  18 hrs 28 mins      ███████████████████░░░░░░   74.58 % 
+Linux                    6 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
 ```
 
 **I Mostly Code in Python** 
