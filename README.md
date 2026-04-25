@@ -25,43 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1749 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-🌆 Daytime                2333 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-🌃 Evening                2439 commits        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-🌙 Night                  2006 commits        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Python                   6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-C                        3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Markdown                 3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-TypeScript               2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-
-🔥 Editors: 
-Unknown Editor           15 hrs 56 mins      ██████████████░░░░░░░░░░░   55.64 % 
-VS Code                  12 hrs 43 mins      ███████████░░░░░░░░░░░░░░   44.36 % 
-
-🐱‍💻 Projects: 
-项目设计                     18 hrs 27 mins      ████████████████░░░░░░░░░   64.39 % 
-1.stm32程序                4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-初稿 - 副本                  2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-13083                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-uniapp-src               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-
-💻 Operating System: 
-Windows                  28 hrs 40 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
