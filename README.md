@@ -41,26 +41,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   41.11 % 
-Python                   1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.94 % 
-Markdown                 54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Python                   1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Markdown                 1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+C                        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Vue                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 🔥 Editors: 
-Unknown Editor           4 hrs 11 mins       ██████████████████████░░░   88.66 % 
-VS Code                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Unknown Editor           6 hrs 2 mins        ██████████████████████░░░   88.47 % 
+VS Code                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 
 🐱‍💻 Projects: 
-初稿格式调整                   2 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.21 % 
-gpt-image-2-generator-sta2 hrs               ███████████░░░░░░░░░░░░░░   42.57 % 
-gpt-image-v2-gen-flow-for13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-secret                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-manga-image-translator   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+初稿格式调整                   2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.66 % 
+gpt-image-2-generator-sta2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+secret                   1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+gpt-image-v2-gen-flow-for37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+manga-image-translator   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████░░░░░░░░░░░░   52.76 % 
-Linux                    2 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.24 % 
+Windows                  4 hrs 11 mins       ███████████████░░░░░░░░░░   61.50 % 
+Linux                    2 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
 ```
 
 **I Mostly Code in Python** 
