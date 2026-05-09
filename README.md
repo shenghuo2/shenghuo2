@@ -25,44 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1749 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌆 Daytime                2342 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌃 Evening                2457 commits        ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-🌙 Night                  2009 commits        ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    7 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.25 % 
-TypeScript               3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Markdown                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Python                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-C++                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 53 mins      ██████████████░░░░░░░░░░░   56.50 % 
-Unknown Editor           8 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.50 % 
-
-🐱‍💻 Projects: 
-STELLA-git               7 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.75 % 
-项目设计                     4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-gpt-image-2-generator-sta2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-secret                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-gpt-image-v2-gen-flow-for1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-
-💻 Operating System: 
-Linux                    11 hrs 23 mins      ███████████████░░░░░░░░░░   59.10 % 
-Windows                  7 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.90 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
