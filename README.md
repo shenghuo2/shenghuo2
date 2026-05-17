@@ -25,43 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1768 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-🌆 Daytime                2336 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-🌃 Evening                2480 commits        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-🌙 Night                  1997 commits        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 9 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.95 % 
-Python                   7 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-Other                    6 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-TypeScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-
-🔥 Editors: 
-VS Code                  21 hrs 22 mins      ███████████████████░░░░░░   75.65 % 
-Unknown Editor           6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-
-🐱‍💻 Projects: 
-项目设计                     19 hrs 24 mins      █████████████████░░░░░░░░   68.70 % 
-初稿格式调整                   7 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-secret                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-13083                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-实训报告                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-
-💻 Operating System: 
-Windows                  28 hrs 15 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
