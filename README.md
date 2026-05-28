@@ -25,45 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1772 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-🌆 Daytime                2340 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-🌃 Evening                2489 commits        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌙 Night                  1997 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   6 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.71 % 
-Markdown                 2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Other                    2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 21 mins      ██████████████████████░░░   86.28 % 
-Claude Code              1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-
-🐱‍💻 Projects: 
-zhenxunbot               8 hrs 36 mins       ███████████████░░░░░░░░░░   60.06 % 
-esp32-smarthome          1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-项目设计                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-thesis-nodeppt           1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Unknown Project          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-
-💻 Operating System: 
-Linux                    11 hrs 4 mins       ███████████████████░░░░░░   77.24 % 
-Windows                  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Mac                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
