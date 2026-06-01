@@ -41,27 +41,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   43.54 % 
-Other                    2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Markdown                 2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown                 2 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.58 % 
+Python                   1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+YAML                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 10 mins       █████████████████████░░░░   84.45 % 
-Unknown Editor           1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+VS Code                  2 hrs 46 mins       ████████████████░░░░░░░░░   64.77 % 
+Unknown Editor           1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   35.23 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               7 hrs 1 min         ██████████████████░░░░░░░   72.59 % 
-项目设计                     1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Unknown Project          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-private-project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-nonebot_plugin_jmcomic   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+zhenxunbot               1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   39.38 % 
+项目设计                     1 hr 38 mins        ██████████░░░░░░░░░░░░░░░   38.39 % 
+Unknown Project          34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+private-project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+初稿格式调整                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 💻 Operating System: 
-Linux                    7 hrs 25 mins       ███████████████████░░░░░░   76.58 % 
-Windows                  1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Mac                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Linux                    2 hrs               ████████████░░░░░░░░░░░░░   46.92 % 
+Windows                  1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   39.56 % 
+Mac                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
 ```
 
 **I Mostly Code in Python** 
