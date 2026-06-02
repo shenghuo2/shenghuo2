@@ -41,23 +41,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   53 mins             ███████████░░░░░░░░░░░░░░   42.91 % 
-Markdown                 48 mins             ██████████░░░░░░░░░░░░░░░   39.51 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Markdown                 16 mins             ██████████████████░░░░░░░   71.58 % 
+Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Rust                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               1 hr 41 mins        ████████████████████░░░░░   81.60 % 
-private-project          19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-chenzomi12.github.io     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+private-project          19 mins             █████████████████████░░░░   84.89 % 
+chenzomi12.github.io     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 
 💻 Operating System: 
-Linux                    2 hrs               ████████████████████████░   97.22 % 
-Mac                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Linux                    19 mins             █████████████████████░░░░   84.89 % 
+Mac                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 ```
 
 **I Mostly Code in Python** 
