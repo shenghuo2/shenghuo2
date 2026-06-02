@@ -25,6 +25,41 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1773 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+🌆 Daytime                2346 commits        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+🌃 Evening                2496 commits        ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌙 Night                  1997 commits        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   53 mins             ███████████░░░░░░░░░░░░░░   42.91 % 
+Markdown                 48 mins             ██████████░░░░░░░░░░░░░░░   39.51 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+zhenxunbot               1 hr 41 mins        ████████████████████░░░░░   81.60 % 
+private-project          19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+chenzomi12.github.io     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+
+💻 Operating System: 
+Linux                    2 hrs               ████████████████████████░   97.22 % 
+Mac                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
