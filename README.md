@@ -41,22 +41,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               6 mins              ████████████░░░░░░░░░░░░░   49.40 % 
-Bash                     4 mins              ████████░░░░░░░░░░░░░░░░░   31.13 % 
-Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Vue                      46 mins             ███████████████████░░░░░░   76.63 % 
+JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shenghuo2-nienie-emotes  7 mins              ██████████████░░░░░░░░░░░   56.21 % 
-zhenxunbot               6 mins              ███████████░░░░░░░░░░░░░░   43.79 % 
+main                     47 mins             ███████████████████░░░░░░   77.46 % 
+shenghuo2-nienie-emotes  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+zhenxunbot               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 
 💻 Operating System: 
-Windows                  7 mins              ██████████████░░░░░░░░░░░   56.21 % 
-Linux                    6 mins              ███████████░░░░░░░░░░░░░░   43.79 % 
+Linux                    53 mins             ██████████████████████░░░   87.33 % 
+Windows                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 ```
 
 **I Mostly Code in Python** 
