@@ -25,41 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-🌆 Daytime                2351 commits        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-🌃 Evening                2501 commits        ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-🌙 Night                  1997 commits        ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue                      46 mins             █████████░░░░░░░░░░░░░░░░   34.89 % 
-Other                    44 mins             ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Python                   34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-zhenxunbot               1 hr 18 mins        ███████████████░░░░░░░░░░   58.96 % 
-main                     47 mins             █████████░░░░░░░░░░░░░░░░   35.27 % 
-shenghuo2-nienie-emotes  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-
-💻 Operating System: 
-Linux                    2 hrs 6 mins        ████████████████████████░   94.23 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
