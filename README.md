@@ -41,23 +41,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 20 mins       ████████████████░░░░░░░░░   62.55 % 
-Python                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Vue                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Other                    3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
+JavaScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Vue                      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 43 mins       ████████████████░░░░░░░░░   62.45 % 
+Claude Code              3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.55 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               4 hrs 25 mins       █████████████████████░░░░   82.90 % 
-main                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-shenghuo2-nienie-emotes  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+zhenxunbot               4 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.41 % 
+emotes                   1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+main                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+img-compare              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+index                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 💻 Operating System: 
-Linux                    5 hrs 13 mins       ████████████████████████░   97.60 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Linux                    9 hrs 1 min         █████████████████████████   98.60 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 **I Mostly Code in Python** 
