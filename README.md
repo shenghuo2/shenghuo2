@@ -25,6 +25,43 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+🌆 Daytime                2359 commits        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+🌃 Evening                2518 commits        ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+🌙 Night                  2003 commits        ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.28 % 
+Python                   2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 19 mins       ███████████████░░░░░░░░░░   60.17 % 
+Claude Code              4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.83 % 
+
+🐱‍💻 Projects: 
+zhenxunbot               6 hrs 33 mins       ████████████████░░░░░░░░░   62.43 % 
+emotes                   1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+img-compare              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+index                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+tool-pages               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+
+💻 Operating System: 
+Linux                    10 hrs 30 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
