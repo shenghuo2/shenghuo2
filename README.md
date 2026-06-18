@@ -41,25 +41,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.28 % 
-Python                   2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Python                   1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Other                    1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 19 mins       ███████████████░░░░░░░░░░   60.17 % 
-Claude Code              4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.83 % 
+VS Code                  4 hrs 15 mins       █████████████░░░░░░░░░░░░   50.44 % 
+Claude Code              4 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.56 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               6 hrs 33 mins       ████████████████░░░░░░░░░   62.43 % 
-emotes                   1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-img-compare              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-index                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-tool-pages               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+zhenxunbot               4 hrs 29 mins       █████████████░░░░░░░░░░░░   53.25 % 
+emotes                   1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+img-compare              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+index                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+tool-pages               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 💻 Operating System: 
-Linux                    10 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
