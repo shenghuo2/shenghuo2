@@ -41,23 +41,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 35 mins        ██████████████████░░░░░░░   70.42 % 
-Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Diff                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████░░░░░░░░   67.09 % 
-Claude Code              44 mins             ████████░░░░░░░░░░░░░░░░░   32.91 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zhenxunbot               2 hrs 7 mins        ███████████████████████░░   93.91 % 
-index                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-img-compare              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 16 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
