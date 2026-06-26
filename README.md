@@ -41,16 +41,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+TypeScript               1 hr 41 mins        ████████████████████░░░░░   79.83 % 
+JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Claude Code              2 hrs 3 mins        ████████████████████████░   96.79 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               0 secs              █████████████████████████   100.00 % 
+gpt-image-2-generator-sta2 hrs 6 mins        █████████████████████████   99.41 % 
+zhenxunbot               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
