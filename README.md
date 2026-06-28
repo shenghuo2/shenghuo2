@@ -41,22 +41,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        ████████████████████░░░░░   79.83 % 
-JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript               2 hrs 32 mins       ███████████████████░░░░░░   77.72 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 3 mins        ████████████████████████░   96.79 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Claude Code              2 hrs 37 mins       ████████████████████░░░░░   80.32 % 
+VS Code                  38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
 
 🐱‍💻 Projects: 
-gpt-image-2-generator-sta2 hrs 6 mins        █████████████████████████   99.41 % 
-zhenxunbot               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+gpt-image-2-generator-sta2 hrs 57 mins       ███████████████████████░░   90.44 % 
+zhenxunbot               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 
 💻 Operating System: 
-Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
