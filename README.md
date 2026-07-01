@@ -25,6 +25,40 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+🌆 Daytime                2363 commits        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+🌃 Evening                2521 commits        ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               2 hrs 54 mins       █████████████████░░░░░░░░   68.69 % 
+JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Python                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+
+🔥 Editors: 
+Claude Code              2 hrs 55 mins       █████████████████░░░░░░░░   68.71 % 
+VS Code                  1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   31.29 % 
+
+🐱‍💻 Projects: 
+gpt-image-2-generator-sta3 hrs 19 mins       ████████████████████░░░░░   78.50 % 
+zhenxunbot               54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+
+💻 Operating System: 
+Linux                    4 hrs 14 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
