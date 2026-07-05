@@ -25,42 +25,6 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-🌆 Daytime                2365 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌃 Evening                2522 commits        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Python                   2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-Markdown                 2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-TypeScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 29 mins       ███████████████████████░░   93.47 % 
-Claude Code              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-
-🐱‍💻 Projects: 
-tg-qq-bot                6 hrs 19 mins       █████████████████░░░░░░░░   69.63 % 
-gpt-image-2-generator-sta1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-zhenxunbot               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-
-💻 Operating System: 
-Linux                    9 hrs 4 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
