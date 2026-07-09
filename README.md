@@ -25,6 +25,38 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+🌆 Daytime                2365 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+🌃 Evening                2522 commits        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    1 hr 44 mins        ████████████░░░░░░░░░░░░░   47.51 % 
+Python                   1 hr 33 mins        ███████████░░░░░░░░░░░░░░   42.45 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+tg-qq-bot                2 hrs 47 mins       ███████████████████░░░░░░   76.01 % 
+gpt-image-2-generator-sta52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+
+💻 Operating System: 
+Linux                    3 hrs 40 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
