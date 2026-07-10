@@ -41,20 +41,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 44 mins        ████████████░░░░░░░░░░░░░   47.51 % 
-Python                   1 hr 33 mins        ███████████░░░░░░░░░░░░░░   42.45 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other                    52 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tg-qq-bot                2 hrs 47 mins       ███████████████████░░░░░░   76.01 % 
-gpt-image-2-generator-sta52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+gpt-image-2-generator-sta52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
