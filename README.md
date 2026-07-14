@@ -41,16 +41,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   37.38 % 
+Python                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Rust                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Other                    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+private-project          1 hr 51 mins        ███████████░░░░░░░░░░░░░░   43.52 % 
+tg-qq-bot                1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   34.40 % 
+status-harbor            40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+zhenxunbot               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
