@@ -41,23 +41,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   37.38 % 
-Python                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Rust                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Other                    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+TypeScript               6 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.35 % 
+Python                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Other                    1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Rust                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-private-project          1 hr 51 mins        ███████████░░░░░░░░░░░░░░   43.52 % 
-tg-qq-bot                1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   34.40 % 
-status-harbor            40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-zhenxunbot               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+play-video-online        5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.10 % 
+status-harbor            2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+tg-qq-bot                2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+private-project          1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+zhenxunbot               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
