@@ -41,24 +41,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               29 hrs 59 mins      ██████████████████░░░░░░░   70.13 % 
-Markdown                 5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-JSON                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Image (svg)              1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+TypeScript               20 hrs 56 mins      ███████████████░░░░░░░░░░   61.15 % 
+Markdown                 6 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Java                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Image (svg)              1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+CSS                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-VS Code                  42 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-InkMeter                 22 hrs 8 mins       █████████████░░░░░░░░░░░░   51.77 % 
-play-video-online        6 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-axonhub-usage-worker     6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-status-harbor            5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-gpt-image-2-generator-sta1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+InkMeter                 12 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.61 % 
+axonhub-usage-worker     6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+play-video-online        5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+mc-mod-NEU-refactor      4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+status-harbor            2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 💻 Operating System: 
-Linux                    42 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
