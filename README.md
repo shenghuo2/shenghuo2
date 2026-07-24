@@ -25,6 +25,43 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌆 Daytime                2368 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+🌃 Evening                2530 commits        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               11 hrs 37 mins      ███████████░░░░░░░░░░░░░░   42.01 % 
+Java                     6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Markdown                 6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Image (svg)              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+
+🔥 Editors: 
+VS Code                  27 hrs 40 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+mc-mod-NEU-refactor      10 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   36.81 % 
+InkMeter                 6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+axonhub-usage-worker     6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+play-video-online        1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+status-harbor            1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+
+💻 Operating System: 
+Linux                    27 hrs 39 mins      █████████████████████████   99.97 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
