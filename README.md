@@ -41,24 +41,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 37 mins      ███████████░░░░░░░░░░░░░░   42.01 % 
-Java                     6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Markdown                 6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Image (svg)              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               10 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   39.33 % 
+Java                     8 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+Markdown                 5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Image (svg)              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mc-mod-NEU-refactor      10 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   36.81 % 
-InkMeter                 6 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-axonhub-usage-worker     6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-play-video-online        1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-status-harbor            1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+mc-mod-NEU-refactor      12 hrs 58 mins      ████████████░░░░░░░░░░░░░   48.23 % 
+InkMeter                 5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+axonhub-usage-worker     4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+gpt-image-2-generator-sta1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+status-harbor            1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 💻 Operating System: 
-Linux                    27 hrs 39 mins      █████████████████████████   99.97 % 
+Linux                    26 hrs 54 mins      █████████████████████████   99.97 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
