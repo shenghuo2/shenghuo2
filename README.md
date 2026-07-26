@@ -41,25 +41,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   39.33 % 
-Java                     8 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
-Markdown                 5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Image (svg)              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Java                     8 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.69 % 
+TypeScript               5 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+Markdown                 5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Image (svg)              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mc-mod-NEU-refactor      12 hrs 58 mins      ████████████░░░░░░░░░░░░░   48.23 % 
-InkMeter                 5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-axonhub-usage-worker     4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-gpt-image-2-generator-sta1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-status-harbor            1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+mc-mod-NEU-refactor      12 hrs 58 mins      ███████████████░░░░░░░░░░   61.38 % 
+InkMeter                 4 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+gpt-image-2-generator-sta1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+status-harbor            1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+axonhub-usage-worker     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 💻 Operating System: 
-Linux                    26 hrs 54 mins      █████████████████████████   99.97 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Linux                    21 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
