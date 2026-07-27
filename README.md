@@ -25,13 +25,15 @@
 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-335%20hrs%2034%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌆 Daytime                2368 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌃 Evening                2530 commits        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌆 Daytime                2369 commits        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+🌃 Evening                2531 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
 ```
 
 
@@ -59,6 +61,28 @@ axonhub-usage-worker     30 mins             █░░░░░░░░░░�
 
 💻 Operating System: 
 Linux                    16 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 33 mins (99.97%)
+
+✍️ 21,872 lines written by AI, 1 lines written by hand (100.0% AI-written)
+
+🔤 472,071,126 Input Tokens, 1,292,581 Output Tokens
+
+💵 $2397.88 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 60 AI Prompts
+
+GPT                      21,677 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 289 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
