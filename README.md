@@ -43,45 +43,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     8 hrs 36 mins       █████████████░░░░░░░░░░░░   51.95 % 
-Markdown                 4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-TypeScript               3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Java                     8 hrs 36 mins       ███████████████░░░░░░░░░░   59.67 % 
+Markdown                 4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 25 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mc-mod-NEU-refactor      12 hrs 58 mins      ████████████████████░░░░░   78.37 % 
-gpt-image-2-generator-sta1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-status-harbor            1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-InkMeter                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-axonhub-usage-worker     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+mc-mod-NEU-refactor      12 hrs 58 mins      ███████████████████████░░   90.01 % 
+InkMeter                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+axonhub-usage-worker     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+status-harbor            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 💻 Operating System: 
-Linux                    16 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 33 mins (99.97%)
+⏱ AI Coding Time: 14 hrs 25 mins (99.97%)
 
-✍️ 21,872 lines written by AI, 1 lines written by hand (100.0% AI-written)
+✍️ 21,382 lines written by AI, 1 lines written by hand (100.0% AI-written)
 
-🔤 472,071,126 Input Tokens, 1,292,581 Output Tokens
+🔤 415,213,085 Input Tokens, 1,143,200 Output Tokens
 
-💵 $2397.88 Estimated AI Cost This Week
+💵 $2109.11 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 60 AI Prompts
+🧠 16 AI Sessions, 40 AI Prompts
 
-GPT                      21,677 lines        █████████████████████████   100.00 % 
+GPT                      21,184 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 289 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 263 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
