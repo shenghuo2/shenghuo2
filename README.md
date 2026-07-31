@@ -27,6 +27,65 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2039%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌆 Daytime                2369 commits        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+🌃 Evening                2531 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
+Java                     1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Markdown                 1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 18 mins       ████████████████████████░   94.09 % 
+Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+
+🐱‍💻 Projects: 
+mc-mod-NEU-refactor      2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.83 % 
+tg-qq-bot                2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
+zhenxunbot               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+InkMeter                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+axonhub-usage-worker     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+
+💻 Operating System: 
+Linux                    6 hrs 42 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 41 mins (99.78%)
+
+✍️ 4,340 lines written by AI, 3 lines written by hand (99.93% AI-written)
+
+🔤 166,456,553 Input Tokens, 444,534 Output Tokens
+
+💵 $838.57 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 56 AI Prompts
+
+GPT                      4,399 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.93% of written lines came from AI
+📝 Concise Prompter — average 182 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
