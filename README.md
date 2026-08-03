@@ -43,44 +43,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 37 mins        ███████████████████░░░░░░   75.30 % 
-Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Python                   46 mins             ███████████████░░░░░░░░░░   60.68 % 
+Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        ████████████████████░░░░░   81.54 % 
-Claude Code              23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tg-qq-bot                2 hrs 6 mins        ████████████████████████░   97.83 % 
-zhenxunbot               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+tg-qq-bot                1 hr 13 mins        ████████████████████████░   96.31 % 
+zhenxunbot               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 💻 Operating System: 
-Linux                    2 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (99.31%)
+⏱ AI Coding Time: 1 hr 14 mins (98.83%)
 
-✍️ 818 lines written by AI, 3 lines written by hand (99.63% AI-written)
+✍️ 720 lines written by AI, 3 lines written by hand (99.59% AI-written)
 
-🔤 60,117,918 Input Tokens, 144,325 Output Tokens
+🔤 42,864,546 Input Tokens, 110,698 Output Tokens
 
-💵 $297.87 Estimated AI Cost This Week
+💵 $217.64 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 35 AI Prompts
+🧠 5 AI Sessions, 24 AI Prompts
 
-GPT                      870 lines           █████████████████████████   100.00 % 
+GPT                      772 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📝 Concise Prompter — average 71 characters per prompt
+🤖 AI-Driven — 99.59% of written lines came from AI
+📝 Concise Prompter — average 68 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.57% of changed lines were hand-edited
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
