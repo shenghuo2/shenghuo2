@@ -43,17 +43,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 mins              ███████████████████████░░   90.21 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Python                   1 hr 16 mins        ██████████████████████░░░   89.85 % 
+Java                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 17 mins        ███████████████████████░░   90.72 % 
+IntelliJ IDEA            7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              █████████████████████████   100.00 % 
+Unknown Project          1 hr 18 mins        ███████████████████████░░   92.16 % 
+untitled                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
