@@ -43,20 +43,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 16 mins        ██████████████████████░░░   89.85 % 
-Java                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python                   4 hrs 20 mins       ███████████████████████░░   92.25 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Java                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        ███████████████████████░░   90.72 % 
-IntelliJ IDEA            7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+VS Code                  4 hrs 34 mins       ████████████████████████░   97.20 % 
+IntelliJ IDEA            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 18 mins        ███████████████████████░░   92.16 % 
-untitled                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Unknown Project          2 hrs 53 mins       ███████████████░░░░░░░░░░   61.62 % 
+例题                       1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+题目                       30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+untitled                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
