@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2054%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -43,30 +43,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 20 mins       ███████████████████████░░   92.25 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Java                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   6 hrs 12 mins       ██████████████████████░░░   88.90 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Java                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 34 mins       ████████████████████████░   97.20 % 
-IntelliJ IDEA            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+VS Code                  6 hrs 51 mins       █████████████████████████   98.11 % 
+IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 53 mins       ███████████████░░░░░░░░░░   61.62 % 
-例题                       1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-题目                       30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-untitled                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Unknown Project          2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.53 % 
+zhenxunbot               2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
+例题                       1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+题目                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+untitled                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 42 mins       █████████████████░░░░░░░░   67.39 % 
+Linux                    2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 14 mins (32.06%)
+
+✍️ 1,802 lines written by AI, 1,416 lines written by hand (56.0% AI-written)
+
+🔤 357,091 Input Tokens, 137,317 Output Tokens
+
+💵 $152.69 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 44 AI Prompts
+
+Deepseek                 1,993 lines         █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 56.0% of written lines came from AI
+📄 Detailed Prompter — average 863 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 44.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
