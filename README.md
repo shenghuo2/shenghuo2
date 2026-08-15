@@ -30,10 +30,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1773 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌆 Daytime                2369 commits        ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-🌃 Evening                2530 commits        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌆 Daytime                2369 commits        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+🌃 Evening                2531 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
 ```
 
 
@@ -43,34 +43,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 12 mins       ██████████████████████░░░   88.90 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Java                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Python                   6 hrs 30 mins       █████████████████████░░░░   82.07 % 
+Java                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 51 mins       █████████████████████████   98.11 % 
-IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+VS Code                  7 hrs 9 mins        ███████████████████████░░   90.17 % 
+IntelliJ IDEA            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.53 % 
-zhenxunbot               2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
-例题                       1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-题目                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-untitled                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Unknown Project          3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
+zhenxunbot               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+例题                       1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+java-test                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+题目                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 💻 Operating System: 
-Windows                  4 hrs 42 mins       █████████████████░░░░░░░░   67.39 % 
-Linux                    2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.61 % 
+Windows                  5 hrs 39 mins       ██████████████████░░░░░░░   71.32 % 
+Linux                    2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (32.06%)
+⏱ AI Coding Time: 2 hrs 14 mins (28.2%)
 
-✍️ 1,802 lines written by AI, 1,416 lines written by hand (56.0% AI-written)
+✍️ 1,802 lines written by AI, 1,499 lines written by hand (54.59% AI-written)
 
 🔤 357,091 Input Tokens, 137,317 Output Tokens
 
@@ -82,10 +82,10 @@ Deepseek                 1,993 lines         ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.0% of written lines came from AI
+⚖️ Balanced with AI — 54.59% of written lines came from AI
 📄 Detailed Prompter — average 863 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 44.55% of changed lines were hand-edited
+🚀 High AI Trust — 45.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
