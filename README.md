@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -43,49 +43,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 59 mins       ████████████████████░░░░░   79.06 % 
-Java                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-CSV                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Python                   11 hrs 53 mins      ████████████████████░░░░░   81.32 % 
+Java                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+CSV                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 51 mins      ███████████████████████░░   93.83 % 
-IntelliJ IDEA            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+VS Code                  13 hrs 50 mins      ████████████████████████░   94.67 % 
+IntelliJ IDEA            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🐱‍💻 Projects: 
-数据安全练习题                  4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.21 % 
-Unknown Project          3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-zhenxunbot               2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-例题                       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-java-test                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+数据安全练习题                  4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
+Unknown Project          4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+zhenxunbot               2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+例题                       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+13083                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      ████████████████████░░░░░   81.99 % 
-Linux                    2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Windows                  12 hrs 21 mins      █████████████████████░░░░   84.43 % 
+Linux                    2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (17.71%)
+⏱ AI Coding Time: 3 hrs 25 mins (23.46%)
 
-✍️ 1,802 lines written by AI, 45,907 lines written by hand (3.78% AI-written)
+✍️ 1,842 lines written by AI, 45,969 lines written by hand (3.85% AI-written)
 
-🔤 357,091 Input Tokens, 137,317 Output Tokens
+🔤 607,260 Input Tokens, 196,981 Output Tokens
 
-💵 $152.69 Estimated AI Cost This Week
+💵 $181.12 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 44 AI Prompts
+🧠 4 AI Sessions, 58 AI Prompts
 
-Deepseek                 1,993 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 1,993 lines         █████████████████████████   98.03 % 
+Opencode-Cli             40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.78% of written lines came from AI
-📄 Detailed Prompter — average 863 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 96.9% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 3.85% of written lines came from AI
+📄 Detailed Prompter — average 723 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 96.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
