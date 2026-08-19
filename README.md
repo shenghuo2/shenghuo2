@@ -43,34 +43,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 53 mins      ████████████████████░░░░░   81.32 % 
-Java                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-CSV                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Python                   10 hrs 43 mins      ████████████████████░░░░░   80.49 % 
+Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+CSV                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 50 mins      ████████████████████████░   94.67 % 
-IntelliJ IDEA            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+VS Code                  12 hrs 41 mins      ████████████████████████░   95.14 % 
+IntelliJ IDEA            38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🐱‍💻 Projects: 
-数据安全练习题                  4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
-Unknown Project          4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-zhenxunbot               2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-例题                       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-13083                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+数据安全练习题                  4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
+Unknown Project          2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+zhenxunbot               2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+例题                       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+13083                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 💻 Operating System: 
-Windows                  12 hrs 21 mins      █████████████████████░░░░   84.43 % 
-Linux                    2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Windows                  11 hrs 3 mins       █████████████████████░░░░   82.92 % 
+Linux                    2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (23.46%)
+⏱ AI Coding Time: 3 hrs 25 mins (25.73%)
 
-✍️ 1,842 lines written by AI, 45,969 lines written by hand (3.85% AI-written)
+✍️ 1,842 lines written by AI, 45,215 lines written by hand (3.91% AI-written)
 
 🔤 607,260 Input Tokens, 196,981 Output Tokens
 
@@ -82,10 +82,10 @@ Deepseek                 1,993 lines         ███████████�
 Opencode-Cli             40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.85% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 3.91% of written lines came from AI
 📄 Detailed Prompter — average 723 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 96.84% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
