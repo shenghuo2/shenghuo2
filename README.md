@@ -27,67 +27,6 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%205%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1774 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌆 Daytime                2369 commits        ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-🌃 Evening                2529 commits        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌙 Night                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   10 hrs 43 mins      ████████████████████░░░░░   80.49 % 
-Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-CSV                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 41 mins      ████████████████████████░   95.14 % 
-IntelliJ IDEA            38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-
-🐱‍💻 Projects: 
-数据安全练习题                  4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
-Unknown Project          2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-zhenxunbot               2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-例题                       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-13083                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-
-💻 Operating System: 
-Windows                  11 hrs 3 mins       █████████████████████░░░░   82.92 % 
-Linux                    2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 25 mins (25.73%)
-
-✍️ 1,842 lines written by AI, 45,215 lines written by hand (3.91% AI-written)
-
-🔤 607,260 Input Tokens, 196,981 Output Tokens
-
-💵 $181.12 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 58 AI Prompts
-
-Deepseek                 1,993 lines         █████████████████████████   98.03 % 
-Opencode-Cli             40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.91% of written lines came from AI
-📄 Detailed Prompter — average 723 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 96.8% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
