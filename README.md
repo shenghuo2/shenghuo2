@@ -43,32 +43,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 21 mins       ███████████████████░░░░░░   74.80 % 
-Java                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-CSV                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-PHP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Python                   7 hrs 3 mins        ████████████████████░░░░░   79.39 % 
+CSV                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+PHP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 11 mins       ███████████████████████░░   93.42 % 
-IntelliJ IDEA            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+VS Code                  8 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-数据安全练习题                  4 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.82 % 
-Unknown Project          3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
-13083                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-java-test                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+数据安全练习题                  4 hrs 42 mins       █████████████░░░░░░░░░░░░   52.96 % 
+Unknown Project          3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.11 % 
+13083                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 
 💻 Operating System: 
-Windows                  9 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (12.11%)
+⏱ AI Coding Time: 1 hr 11 mins (13.41%)
 
-✍️ 40 lines written by AI, 44,725 lines written by hand (0.09% AI-written)
+✍️ 40 lines written by AI, 44,642 lines written by hand (0.09% AI-written)
 
 🔤 250,169 Input Tokens, 59,664 Output Tokens
 
