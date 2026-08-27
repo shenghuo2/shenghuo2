@@ -43,32 +43,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 41 mins       ██████████████████░░░░░░░   70.89 % 
-YAML                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-PHP                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Python                   1 hr 8 mins         ████████████████░░░░░░░░░   65.56 % 
+YAML                     34 mins             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 54 mins       ███████████████████░░░░░░   76.60 % 
-Codex Vscode             53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Codex Vscode             53 mins             █████████████░░░░░░░░░░░░   51.39 % 
+VS Code                  50 mins             ████████████░░░░░░░░░░░░░   48.61 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 4 mins        ██████████████░░░░░░░░░░░   54.46 % 
-zhenxunbot               53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-tg-qq-bot                50 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+zhenxunbot               53 mins             █████████████░░░░░░░░░░░░   51.39 % 
+tg-qq-bot                50 mins             ████████████░░░░░░░░░░░░░   48.61 % 
 
 💻 Operating System: 
-Windows                  2 hrs 4 mins        ██████████████░░░░░░░░░░░   54.46 % 
-Linux                    1 hr 43 mins        ███████████░░░░░░░░░░░░░░   45.54 % 
+Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (45.54%)
+⏱ AI Coding Time: 1 hr 43 mins (100.0%)
 
-✍️ 804 lines written by AI, 172 lines written by hand (82.38% AI-written)
+✍️ 804 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 832,185 Input Tokens, 111,717 Output Tokens
 
@@ -81,20 +77,20 @@ GPT                      84 lines            ██░░░░░░░░░�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.38% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 44 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 26.93% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   19 repos            ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
