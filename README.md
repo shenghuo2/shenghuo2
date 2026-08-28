@@ -43,42 +43,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 8 mins         ████████████████░░░░░░░░░   65.56 % 
-YAML                     34 mins             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Python                   1 hr 2 mins         ████████████████░░░░░░░░░   63.60 % 
+YAML                     34 mins             █████████░░░░░░░░░░░░░░░░   35.22 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-Codex Vscode             53 mins             █████████████░░░░░░░░░░░░   51.39 % 
-VS Code                  50 mins             ████████████░░░░░░░░░░░░░   48.61 % 
+Codex Vscode             53 mins             ██████████████░░░░░░░░░░░   54.30 % 
+VS Code                  44 mins             ███████████░░░░░░░░░░░░░░   45.70 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               53 mins             █████████████░░░░░░░░░░░░   51.39 % 
-tg-qq-bot                50 mins             ████████████░░░░░░░░░░░░░   48.61 % 
+zhenxunbot               53 mins             ██████████████░░░░░░░░░░░   54.30 % 
+tg-qq-bot                44 mins             ███████████░░░░░░░░░░░░░░   45.70 % 
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (100.0%)
+⏱ AI Coding Time: 1 hr 38 mins (100.0%)
 
-✍️ 804 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 583 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 832,185 Input Tokens, 111,717 Output Tokens
+🔤 620,843 Input Tokens, 101,162 Output Tokens
 
-💵 $51.77 Estimated AI Cost This Week
+💵 $48.60 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
-Deepseek                 898 lines           ███████████████████████░░   91.45 % 
-GPT                      84 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Deepseek                 677 lines           ██████████████████████░░░   88.96 % 
+GPT                      84 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 44 characters per prompt
+📝 Concise Prompter — average 48 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
