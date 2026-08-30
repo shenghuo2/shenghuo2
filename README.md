@@ -27,62 +27,6 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-341%20hrs%2044%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1785 commits        █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-🌆 Daytime                2320 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-🌃 Evening                2507 commits        ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-🌙 Night                  1825 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   1 hr 2 mins         ████████████████░░░░░░░░░   63.60 % 
-YAML                     34 mins             █████████░░░░░░░░░░░░░░░░   35.22 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-
-🔥 Editors: 
-Codex Vscode             53 mins             ██████████████░░░░░░░░░░░   54.30 % 
-VS Code                  44 mins             ███████████░░░░░░░░░░░░░░   45.70 % 
-
-🐱‍💻 Projects: 
-zhenxunbot               53 mins             ██████████████░░░░░░░░░░░   54.30 % 
-tg-qq-bot                44 mins             ███████████░░░░░░░░░░░░░░   45.70 % 
-
-💻 Operating System: 
-Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 38 mins (100.0%)
-
-✍️ 583 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 620,843 Input Tokens, 101,162 Output Tokens
-
-💵 $48.60 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 10 AI Prompts
-
-Deepseek                 677 lines           ██████████████████████░░░   88.96 % 
-GPT                      84 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 48 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
