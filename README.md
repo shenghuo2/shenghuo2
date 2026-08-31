@@ -43,39 +43,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     34 mins             ████████████████░░░░░░░░░   64.86 % 
-Python                   18 mins             █████████░░░░░░░░░░░░░░░░   35.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zhenxunbot               53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (100.0%)
-
-✍️ 14 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 361,755 Input Tokens, 30,037 Output Tokens
-
-💵 $3.72 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-GPT                      84 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 59 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
