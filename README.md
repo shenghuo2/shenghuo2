@@ -64,11 +64,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   19 repos            ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
