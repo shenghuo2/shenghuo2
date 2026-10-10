@@ -43,42 +43,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   57 mins             █████████████████████████   99.96 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   26 mins             █████████████████████████   99.90 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Codex Vscode             55 mins             ████████████████████████░   96.39 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Codex Vscode             24 mins             ███████████████████████░░   92.28 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 🐱‍💻 Projects: 
-tmp                      43 mins             ███████████████████░░░░░░   75.19 % 
-zhenxunbot               14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+tmp                      14 mins             █████████████░░░░░░░░░░░░   52.67 % 
+zhenxunbot               12 mins             ████████████░░░░░░░░░░░░░   47.33 % 
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.00 % 
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (98.28%)
+⏱ AI Coding Time: 25 mins (96.32%)
 
-✍️ 1,007 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 623 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 480,855 Input Tokens, 63,789 Output Tokens
+🔤 389,985 Input Tokens, 45,758 Output Tokens
 
-💵 $6.91 Estimated AI Cost This Week
+💵 $3.23 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 15 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
-GPT                      1,106 lines         █████████████████████████   100.00 % 
+GPT                      722 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 53 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+📝 Concise Prompter — average 78 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
