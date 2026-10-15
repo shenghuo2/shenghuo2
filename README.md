@@ -27,6 +27,63 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%2017%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1884 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+🌆 Daytime                2739 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌃 Evening                2831 commits        ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+🌙 Night                  2156 commits        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   29 mins             ███████████████████░░░░░░   76.11 % 
+Git Config               7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+Codex Vscode             36 mins             ███████████████████████░░   93.94 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+
+🐱‍💻 Projects: 
+zhenxunbot               37 mins             ████████████████████████░   95.83 % 
+tmp                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+
+💻 Operating System: 
+Linux                    39 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 39 mins (99.73%)
+
+✍️ 893 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 488,242 Input Tokens, 55,293 Output Tokens
+
+💵 $2.86 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 14 AI Prompts
+
+GPT                      924 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 183 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
