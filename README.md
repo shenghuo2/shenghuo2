@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%2044%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -43,48 +43,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 9 mins        █████████████████░░░░░░░░   66.71 % 
-Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Go                       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Python                   5 hrs 12 mins       ████████████████░░░░░░░░░   65.81 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Go                       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       ████████████████░░░░░░░░░   64.32 % 
-Codex Vscode             2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.68 % 
+VS Code                  5 hrs               ████████████████░░░░░░░░░   63.22 % 
+Codex Vscode             2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.78 % 
 
 🐱‍💻 Projects: 
-zhenxunbot               3 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.69 % 
-Unknown Project          2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-not-code                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-VibeSearch               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+zhenxunbot               3 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.86 % 
+Unknown Project          2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+not-code                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+VibeSearch               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 
 💻 Operating System: 
-Mac                      4 hrs 2 mins        █████████████░░░░░░░░░░░░   52.31 % 
-Linux                    3 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.69 % 
+Mac                      4 hrs 2 mins        █████████████░░░░░░░░░░░░   51.14 % 
+Linux                    3 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 40 mins (73.25%)
+⏱ AI Coding Time: 5 hrs 50 mins (73.85%)
 
-✍️ 6,306 lines written by AI, 57 lines written by hand (99.1% AI-written)
+✍️ 6,353 lines written by AI, 57 lines written by hand (99.11% AI-written)
 
-🔤 2,968,334 Input Tokens, 434,285 Output Tokens
+🔤 3,103,139 Input Tokens, 444,307 Output Tokens
 
-💵 $16.66 Estimated AI Cost This Week
+💵 $17.08 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 72 AI Prompts
+🧠 16 AI Sessions, 83 AI Prompts
 
-GPT                      6,355 lines         █████████████████████████   100.00 % 
+GPT                      6,402 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.1% of written lines came from AI
-📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.56% of changed lines were hand-edited
+🤖 AI-Driven — 99.11% of written lines came from AI
+📝 Concise Prompter — average 107 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
