@@ -27,66 +27,6 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%2044%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1902 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-🌆 Daytime                2839 commits        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-🌃 Evening                2924 commits        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-🌙 Night                  2192 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   5 hrs 12 mins       ████████████████░░░░░░░░░   65.81 % 
-Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Go                       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-🔥 Editors: 
-VS Code                  5 hrs               ████████████████░░░░░░░░░   63.22 % 
-Codex Vscode             2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.78 % 
-
-🐱‍💻 Projects: 
-zhenxunbot               3 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.86 % 
-Unknown Project          2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-not-code                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-VibeSearch               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-
-💻 Operating System: 
-Mac                      4 hrs 2 mins        █████████████░░░░░░░░░░░░   51.14 % 
-Linux                    3 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.86 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 50 mins (73.85%)
-
-✍️ 6,353 lines written by AI, 57 lines written by hand (99.11% AI-written)
-
-🔤 3,103,139 Input Tokens, 444,307 Output Tokens
-
-💵 $17.08 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 83 AI Prompts
-
-GPT                      6,402 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.11% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.55% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
