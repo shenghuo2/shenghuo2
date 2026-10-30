@@ -27,6 +27,68 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-354%20hrs%2032%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1920 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+🌆 Daytime                2958 commits        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+🌃 Evening                3019 commits        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+🌙 Night                  2256 commits        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 9 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
+Go                       4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Python                   3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Kotlin                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 25 mins      █████████████████░░░░░░░░   66.73 % 
+Codex Vscode             7 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+Claude Code              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+
+🐱‍💻 Projects: 
+DayTrace                 13 hrs 55 mins      ██████████████░░░░░░░░░░░   56.55 % 
+tg-qq-bot                3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+not-code                 3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+daybook                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+zhenxunbot               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+
+💻 Operating System: 
+Mac                      20 hrs              ████████████████████░░░░░   81.24 % 
+Linux                    4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 24 hrs 37 mins (100.0%)
+
+✍️ 13,574 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 20,192,892 Input Tokens, 3,132,207 Output Tokens
+
+💵 $107.85 Estimated AI Cost This Week
+
+🧠 32 AI Sessions, 189 AI Prompts
+
+GPT                      13,596 lines        █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 199 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
