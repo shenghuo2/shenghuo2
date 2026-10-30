@@ -43,48 +43,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
-Go                       4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Python                   3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Kotlin                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Markdown                 9 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.20 % 
+Go                       4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Kotlin                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 25 mins      █████████████████░░░░░░░░   66.73 % 
-Codex Vscode             7 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
-Claude Code              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+VS Code                  15 hrs 54 mins      ██████████████████░░░░░░░   71.73 % 
+Codex Vscode             5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Claude Code              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🐱‍💻 Projects: 
-DayTrace                 13 hrs 55 mins      ██████████████░░░░░░░░░░░   56.55 % 
-tg-qq-bot                3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-not-code                 3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-daybook                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-zhenxunbot               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+DayTrace                 13 hrs 23 mins      ███████████████░░░░░░░░░░   60.43 % 
+not-code                 3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+tg-qq-bot                2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+daybook                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+zhenxunbot               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 💻 Operating System: 
-Mac                      20 hrs              ████████████████████░░░░░   81.24 % 
-Linux                    4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Mac                      19 hrs 28 mins      ██████████████████████░░░   87.85 % 
+Linux                    2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 22 hrs 10 mins (100.0%)
 
-✍️ 13,574 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12,248 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,192,892 Input Tokens, 3,132,207 Output Tokens
+🔤 19,393,826 Input Tokens, 2,976,548 Output Tokens
 
-💵 $107.85 Estimated AI Cost This Week
+💵 $103.37 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 189 AI Prompts
+🧠 29 AI Sessions, 164 AI Prompts
 
-GPT                      13,596 lines        █████████████████████████   100.00 % 
+GPT                      12,270 lines        █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 199 characters per prompt
+📝 Concise Prompter — average 211 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
